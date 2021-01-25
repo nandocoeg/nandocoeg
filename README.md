@@ -1,5 +1,5 @@
 ### Hi there 👋
-Let's make it awesome
+Just a noob boy xixi
 
 <!--
 **nandocoeg/nandocoeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
