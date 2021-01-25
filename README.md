@@ -1,6 +1,6 @@
 Reach me 
-- @[twitter/nandocoeg](https://www.twitter.com/nandocoeg/)
-- @[instagram/xnd.o](https://www.instagram.com/xnd.o/)
+  [@twitter/nandocoeg](https://www.twitter.com/nandocoeg/)
+  [@instagram/xnd.o](https://www.instagram.com/xnd.o/)
 ```
 
 $$$$$$$$\          $$$$$\           $$\ $$\                     
@@ -12,9 +12,7 @@ $$ |            $$ |  $$ |$$ |  $$ |$$ |$$ |$$  __$$ |$$ |  $$ |
 $$ |$$\         \$$$$$$  |\$$$$$$  |$$ |$$ |\$$$$$$$ |$$ |  $$ |
 \__|\__|         \______/  \______/ \__|\__| \_______|\__|  \__|
                                                                 
-                                                                
-                                                                
-                                                                                                                                                                                                                
+                                                                                            
 ```
 
 
