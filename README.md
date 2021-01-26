@@ -1,6 +1,6 @@
 Reach me <br />
-[@twitter/nandocoeg](https://www.twitter.com/nandocoeg/) <br />
-[@instagram/xnd.o](https://www.instagram.com/xnd.o/)  
+[@ twitter/nandocoeg](https://www.twitter.com/nandocoeg/) <br />
+[@ instagram/xnd.o](https://www.instagram.com/xnd.o/)  
 ```
   ______                              _              _       _ _              
  |  ____|                            | |            | |     | (_)             
