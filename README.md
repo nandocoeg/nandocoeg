@@ -10,7 +10,7 @@ Reach me <br />
  |_|  \___|_|  |_| |_|\__,_|_| |_|\__,_|\___/   \____/ \__,_|_|_|\__,_|_| |_| 
  
 ```
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandocoeg&show_icons=true&theme=tokyonight)
+![Fernando Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandocoeg&show_icons=true&theme=tokyonight)
 
 
 
