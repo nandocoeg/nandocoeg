@@ -2,7 +2,9 @@ Reach me <br />
 [@ instagram/xnd.o](https://www.instagram.com/xnd.o/)  <br />
 [@ twitter/nandocoeg](https://www.twitter.com/nandocoeg/) <br />
 [@ telegram/nandocoeg](https://t.me/nandocoeg)
+![Fernando Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandocoeg&show_icons=true&theme=tokyonight)
 ```
+BUKAN TUKANG HACK INSTAGRAM
   ______                              _              _       _ _              
  |  ____|                            | |            | |     | (_)             
  | |__ ___ _ __ _ __   __ _ _ __   __| | ___        | |_   _| |_  __ _ _ __   
@@ -11,7 +13,6 @@ Reach me <br />
  |_|  \___|_|  |_| |_|\__,_|_| |_|\__,_|\___/   \____/ \__,_|_|_|\__,_|_| |_| 
  
 ```
-![Fernando Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandocoeg&show_icons=true&theme=tokyonight)
 
 
 
