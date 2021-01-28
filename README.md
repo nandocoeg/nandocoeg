@@ -3,7 +3,8 @@ Reach me <br />
 [@ twitter/nandocoeg](https://www.twitter.com/nandocoeg/) <br />
 [@ telegram/nandocoeg](https://t.me/nandocoeg) <br /> <br />
 ![Fernando Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandocoeg&show_icons=true&theme=tokyonight)
-```  ______                              _              _       _ _              
+```
+  ______                              _              _       _ _              
  |  ____|                            | |            | |     | (_)             
  | |__ ___ _ __ _ __   __ _ _ __   __| | ___        | |_   _| |_  __ _ _ __   
  |  __/ _ \ '__| '_ \ / _` | '_ \ / _` |/ _ \   _   | | | | | | |/ _` | '_ \  
