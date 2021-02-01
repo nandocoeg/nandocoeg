@@ -6,7 +6,6 @@ Reach me <br />
 [@ instagram/xnd.o](https://www.instagram.com/xnd.o/)  <br />
 [@ twitter/nandocoeg](https://www.twitter.com/nandocoeg/) <br />
 [@ telegram/nandocoeg](https://t.me/nandocoeg) <br /> <br />
-![Fernando Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandocoeg&show_icons=true&theme=tokyonight)
 ```
   ______                              _              _       _ _              
  |  ____|                            | |            | |     | (_)             
@@ -28,6 +27,8 @@ Reach me <br />
 Just a noob boy xixi
 
 Here are some ideas to get you started:
+
+![Fernando Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandocoeg&show_icons=true&theme=tokyonight)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
