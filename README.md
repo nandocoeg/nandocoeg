@@ -4,11 +4,12 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=nandocoeg&show_icons=true&theme=tokyonight" alt="nandocoeg" />
 </p>
 
-# Hi there 👋 <img src="https://komarev.com/ghpvc/?username=nandocoeg" alt="nandocoeg" />
+# Hi there 👋 
 ### Reach Me
 - [instagram/xnd.o](https://www.instagram.com/xnd.o/)  <br/>
 - [twitter/nandocoeg](https://www.twitter.com/nandocoeg/) <br />
 - [telegram/nandocoeg](https://t.me/nandocoeg) <br/>
+<img src="https://komarev.com/ghpvc/?username=nandocoeg" alt="nandocoeg" />
 ---
 
 ```
