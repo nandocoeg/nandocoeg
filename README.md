@@ -6,9 +6,10 @@
 
 # Hi there 👋 
 ### Reach Me
-- [instagram/xnd.o](https://www.instagram.com/xnd.o/)  <br/>
-- [twitter/nandocoeg](https://www.twitter.com/nandocoeg/) <br />
-- [telegram/nandocoeg](https://t.me/nandocoeg) <br/>
+
+- [instagram/xnd.o](https://www.instagram.com/xnd.o/)
+- [twitter/nandocoeg](https://www.twitter.com/nandocoeg/)
+- [telegram/nandocoeg](https://t.me/nandocoeg)
 - <img src="https://komarev.com/ghpvc/?username=nandocoeg" alt="nandocoeg" />
 
 ---
