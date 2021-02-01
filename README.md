@@ -6,7 +6,7 @@
 # Reach me
 - [@ instagram/xnd.o](https://www.instagram.com/xnd.o/)  <br/>
 - [@ twitter/nandocoeg](https://www.twitter.com/nandocoeg/) <br />
-- [@ telegram/nandocoeg](https://t.me/nandocoeg) <br/><br/><br/><br/>  
+- [@ telegram/nandocoeg](https://t.me/nandocoeg) <br/><br/>
 ---
 
 ```
