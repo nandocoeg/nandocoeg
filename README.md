@@ -22,7 +22,7 @@
  |_|  \___|_|  |_| |_|\__,_|_| |_|\__,_|\___/   \____/ \__,_|_|_|\__,_|_| |_| 
  
  
-"On the internet nobody knows you're a dog."
+"On the internet, nobody knows you're a dog."
 ```
 
 
