@@ -22,7 +22,7 @@
  |_|  \___|_|  |_| |_|\__,_|_| |_|\__,_|\___/   \____/ \__,_|_|_|\__,_|_| |_| 
  
  
- I am just simple man who wants simple life but now suddenly become so different. I love my Life - Oscar Darmawan
+"On the internet nobody knows you're a dog."
 ```
 
 
